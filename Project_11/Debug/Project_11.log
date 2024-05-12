@@ -1,0 +1,6 @@
+﻿  Project_11.cpp
+D:\VS Projects\Project C++\Project_11\Program2.h(18,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VS Projects\Project C++\Project_11\Program2.h(20,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VS Projects\Project C++\Project_11\Program5.h(19,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\VS Projects\Project C++\Project_11\Program5.h(23,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Project_11.vcxproj -> D:\VS Projects\Project C++\Project_11\Debug\Project_11.exe

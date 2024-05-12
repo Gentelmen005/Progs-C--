@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project_6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Project_9.cpp
+D:\VS Projects\Project C++\Project_9\Project_6\Program2.h(14,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS Projects\Project C++\Project_9\Project_6\Program4.h(13,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS Projects\Project C++\Project_9\Project_6\Program4.h(14,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS Projects\Project C++\Project_9\Project_6\Program5.h(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VS Projects\Project C++\Project_9\Project_6\Program5.h(47,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\VS Projects\Project C++\Project_9\Project_6\Project_9.cpp(239,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project_6.vcxproj -> D:\VS Projects\Project C++\Project_9\Debug\Project_9.exe
